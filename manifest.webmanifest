@@ -1,0 +1,26 @@
+{
+  "name": "2048 經典單機版",
+  "short_name": "2048",
+  "description": "經典流暢的 2048 單機版益智數字消除遊戲，支援離線暢玩。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF8EF",
+  "theme_color": "#EDC22E",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "puzzle"]
+}
